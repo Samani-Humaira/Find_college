@@ -11,7 +11,7 @@ The College Name Fetcher is a simple and user-friendly script that interacts wit
 - License
 
 # Introduction
-The College Name Fetcher is designed to make it easy for users to retrieve lists of college names based on their chosen criteria. This can be particularly useful for individuals seeking information about colleges in specific countries or states.
+The College Name Finds is designed to make it easy for users to retrieve lists of college names based on their chosen criteria. This can be particularly useful for individuals seeking information about colleges in specific countries or states.
 
 # Features
 - Fetch college names based on either country or state.
@@ -41,6 +41,6 @@ Contributions are welcome! If you find any issues or would like to enhance the f
  This project is licensed under the MIT License.
 
 # Author
-Feel free to reach out to the me at samanihmrAgmail.com with any questions or feedback!
+Feel free to reach out to the me at samanihmr@gmail.com with any questions or feedback!
 
 
